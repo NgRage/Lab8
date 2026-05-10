@@ -30,6 +30,7 @@
 Консолтное меню для вызова функций.
 Отлавливание ошибок при помощи try-catch.
 ### Тестирование
+<img width="852" height="485" alt="SC1" src="https://github.com/user-attachments/assets/28b27310-c9f0-4dd6-bbc6-b55e15b5d002" />
 
 
 
