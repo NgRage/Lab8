@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5000B07F-BC99-4F75-BE01-794FF345F0C9}|Book\\Book.csproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 8\\lab8\\book\\book\\bookhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5000B07F-BC99-4F75-BE01-794FF345F0C9}|Book\\Book.csproj|solutionrelative:book\\bookhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5000B07F-BC99-4F75-BE01-794FF345F0C9}|Book\\Book.csproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 8\\lab8\\book\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5000B07F-BC99-4F75-BE01-794FF345F0C9}|Book\\Book.csproj|solutionrelative:book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5000B07F-BC99-4F75-BE01-794FF345F0C9}|Book\\Book.csproj|c:\\users\\rage\\desktop\\\u044F\u043F\\lab 8\\lab8\\book\\book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5000B07F-BC99-4F75-BE01-794FF345F0C9}|Book\\Book.csproj|solutionrelative:book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\Book\\BookHelper.cs",
+              "RelativeDocumentMoniker": "Book\\BookHelper.cs",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\Book\\BookHelper.cs",
+              "RelativeToolTip": "Book\\BookHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T17:12:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\Book\\Book.cs",
+              "RelativeDocumentMoniker": "Book\\Book.cs",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\Book\\Book.cs",
+              "RelativeToolTip": "Book\\Book.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:54:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\Book\\Program.cs",
+              "RelativeDocumentMoniker": "Book\\Program.cs",
+              "ToolTip": "C:\\Users\\Rage\\Desktop\\\u042F\u041F\\lab 8\\Lab8\\Book\\Book\\Program.cs",
+              "RelativeToolTip": "Book\\Program.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAYwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:53:13.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
